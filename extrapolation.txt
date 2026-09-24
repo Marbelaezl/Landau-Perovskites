@@ -1,0 +1,93 @@
+#Classification information
+#Google scholar search: "double perovskite" AND "phase transition" AND ("continuous" OR "discontinuous" OR "order")(11500 results)
+#"double perovskite" AND "phase transition" AND "continuous" OR "discontinuous" OR "order") -magnetic (5360 results)
+#In "order", 1 refers to first order, 2 refers to second order and 3 refers to tricritical. 
+#Transitions stated as "continuous" are given a 2.5 order
+#For A, B, B', the number indicates oxidation state
+#A, B, B', temperature(K), order, doi
+2Sr, 2Ca, 6W, 1250, 2.5, 10.1088/0953-8984/16/37/001
+2Sr, 2Mn,6Te, 0675, 2.5, 10.1088/0953-8984/16/23/008
+2Sr, 2Ni, 6W, 0588, 2.5, 10.1088/0953-8984/15/36/309
+2Sr, 2Zn, 6W, 0773, 2.5, 10.1088/0953-8984/15/36/309
+2Sr, 2Co, 6W, 0693, 2.5, 10.1088/0953-8984/15/36/309
+#Order of I4/m to Fm-3m transition of Sr2YTaO6 is not determined or discussed. I2/m to I4/m is reported
+2Sr,  3Y,5Ta, 1203, 1.0, 10.1016/j.jssc.2010.05.018
+2Sr, 2Fe,6Mo, 0420, 2.0, 10.1103/PhysRevB.93.024101
+2Ca, 2Fe,6Re, 0140, 1.0, 10.1143/JPSJ.72.1411
+2Sr, 3Sm,5Sb, 1170, 2.5, 10.1016/j.jssc.2009.07.021
+2Sr, 3La,5Sb, 1185, 2.5, 10.1016/j.jssc.2009.07.021
+2Sr, 3Fe,5Sb, 0540, 2.5, 10.1016/j.molstruc.2009.10.027
+2Sr, 2Cd, 6W, 1105, 2.5, 10.1016/j.molstruc.2008.10.066
+2Sr, 2Mg, 6W, 0571, 2.5, 10.1016/j.molstruc.2010.02.060
+2Sr, 2Mg,6Te, 0573, 2.0, 10.1063/1.4860515
+2Ba, 2Zn,6Te, 0165, 1.0, 10.1103/PhysRevMaterials.2.054406
+2Pb, 2Ni,6Mo, 0403, 1.0, 10.1021/acs.chemmater.1c02826
+2Ba, 2Ca, 6W, 0220, 3.0, 10.1016/j.jssc.2005.10.003
+2Ba, 2Ca,6Re, 0140, 3.0, 10.1016/j.jssc.2005.10.003
+3Bi, 3Fe,3Cr, 0650, 1.0, 10.7567/1882-0786/ab6006
+2Sr, 3Sc,5Sb, 0650, 2.5, 10.1016/j.jssc.2012.04.019
+2Pb, 2Mg, 6W, 0313, 3.0, 10.1134/S1063783414040180
+2Pb, 2Co,6Mo, 0400, 1.0, 10.1002/smll.202305219
+2Ba, 3Nd,5Nb, 0698, 3.0, 10.1016/j.jssc.2006.10.017
+2Ba, 3Sm,5Nb, 0582, 3.0, 10.1016/j.jssc.2006.10.017
+2Ba, 3La,5Sb, 0438, 2.0, 10.1016/j.jssc.2006.10.017
+2Ba, 3Nd,5Nb, 0235, 1.0, 10.1016/j.jssc.2006.10.017 
+2Ba, 3Sm,5Nb, 0309, 1.0, 10.1016/j.jssc.2006.10.017
+2Sr, 2Zn,6Te, 0543, 1.0, 10.1088/2053-1591/aa8d87
+#2Sr, 2Cd, 6W, 1077, 2.5, 10.1016/j.jssc.2007.05.022 (duplicate)
+2Sr, 3Nd,5Sb, 1255, 3.0, 10.1016/j.poly.2016.09.066
+2Sr, 3Eu,5Sb, 1150, 2.5, 10.1016/j.poly.2016.09.066
+2Sr, 3Gd,5Sb, 1100, 2.5, 10.1016/j.poly.2016.09.066
+2Sr, 3Dy,5Sb, 1110, 2.5, 10.1016/j.poly.2016.09.066
+2Sr, 3Ho,5Sb, 1090, 2.5, 10.1016/j.poly.2016.09.066
+#2Sr, 3La,5Sb, 1200, 2.5, 10.1016/j.poly.2016.09.066 (duplicate)
+2Sr,  3Y,5Sb, 1085, 2.5, 10.1016/j.poly.2016.09.066
+2Sr, 3Er,5Sb, 1160, 2.5, 10.1016/j.poly.2016.09.066
+2Sr, 3Tm,5Sb, 1140, 2.5, 10.1016/j.poly.2016.09.066
+2Sr, 3Yb,5Sb, 1140, 2.5, 10.1016/j.poly.2016.09.066
+2Ba, 3La,5Ta, 0838, 2.0, 10.1016/j.jssc.2007.08.010
+2Ba, 3Pr,5Ta, 0656, 3.0, 10.1016/j.jssc.2007.08.010
+2Ba,  3Y,5Ta, 0254, 2.0, 10.1016/j.jssc.2007.08.010
+2Ba, 3La,5Ta, 0140, 1.0, 10.1016/j.jssc.2007.08.010
+2Ba, 3Pr,5Ta, 0503, 1.0, 10.1016/j.jssc.2007.08.010
+2Ba, 3Pr,5Ta, 0656, 3.0, 10.1016/j.jssc.2007.08.010
+#2Ba, 3Nd,5Nb, 0695, 3.0, 10.1016/j.jssc.2007.08.010 (duplicate)
+2Ba, 3Nd,5Ta, 0710, 2.5, 10.1016/j.jssc.2007.08.010
+2Pb, 3Tm,5Sb, 0460, 2.0, 10.1021/ja104417f
+2Sr, 2Mg,6Mo, 0548, 2.0, 10.1021/ja104417f
+2Sr, 1Li,7Re, 0570, 2.0, 10.1016/j.jssc.2009.04.010
+2Sr, 2Mn,6Mo, 0525, 2.5, 10.1016/j.jeurceramsoc.2014.06.032
+#2Ba,  3Y,5Ta, 0260, 2.0, 10.1016/j.jssc.2010.12.011(duplicate)
+2Ba, 3La,5Ir, 0653, 2.5, 10.1016/j.jssc.2009.12.006
+2Ba, 3Ho,5Ta, 0260, 2.0, 10.1016/j.materresbull.2007.07.027
+2Sr, 3Ga,5Sb, 0723, 2.5, 10.1088/0953-8984/18/39/008
+2Sr, 3Fe,5Nb, 0600, 3.0, 10.1088/0953-8984/18/39/00
+2Sr, 3Co,5Sb, 0470, 2.5, 10.1016/j.jssc.2008.03.029
+2Pb, 1Na, 7I, 0400, 1.0, 10.1002/zaac.201400208
+2Ba, 2Ca, 6U, 0725, 2.5, 10.1039/c5dt02663f
+#Data from original set
+2Ba, 3Bi,5Bi, 0830, 3.0,
+2Ba, 3Bi,5Bi, 0132, 3.0,
+2Ba, 3Bi,5Sb, 0515, 2.0,
+2Ba, 3Gd,5Mo, 0220, 2.5,
+2Ba, 3Gd,5Mo, 0100, 3.0,
+3La, 2Co,4Mn, 1573, 3.0,
+3La, 2Co,4Mn, 0450, 1.0,
+2Sr, 3Cr,5Sb, 0650, 2.5,
+2Sr, 2Cu, 6W, 1193, 1.0,
+2Sr, 2Cu, 6W, 0873, 2.0,
+2Sr, 3In,5Ta, 1163, 2.5,
+2Sr, 3In,5Ta, 0978, 1.0,
+2Sr, 3In,5Ta, 0878, 2.5,
+2Sr, 2Ni,6Mo, 0550, 2.5,
+
+
+
+
+
+
+
+
+
+
+ 
