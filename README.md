@@ -2,7 +2,7 @@
 This is the code and data repository for the paper "Explicit Landau modeling of structural transitions in A2BB'O6 double perovskites reduces bias in critical temperature estimation." A breakdown of its contents is presented below:
 
 ## exp_data
-Contains experimental x-ray diffraction data obtained from various sources, which are cited in the paper and included in "sources.txt". It contains 3 folders: one for raw data, another with unmerged crystallographic observations, and another with merged data, which was used for model fitting. The data merging script, processing.py, is also in this folder.
+Contains experimental neutron diffraction data obtained from various sources, which are cited in the paper and included in "sources.txt". It contains 3 folders: one for raw data, another with unmerged crystallographic observations, and another with merged data, which was used for model fitting. The data merging script, processing.py, is also in this folder.
 
 ## qe
 Contains the structures considered in DFT simulations and density of states results. The full output is too heavy and not the focus of the paper, so no other files are included
